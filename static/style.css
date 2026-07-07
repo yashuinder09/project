@@ -319,66 +319,66 @@ a{
     background-size: cover;
     background-repeat: no-repeat;
 }
-.gpb-1{background-image: url(static/Images//girls/section-1/product-1.png);}
-.gpb-2{background-image: url(static/Images//girls/section-1/product-2.png);}
-.gpb-3{background-image: url(static/Images//girls/section-1/product-3.png);}
-.gpb-4{background-image: url(static/Images//girls/section-1/product-4.png);}
-.gpb-5{background-image: url(static/Images//girls/section-1/product-5.png);}
-.gpb-6{background-image: url(static/Images//girls/section-1/product-6.png);}
-.gpb-7{background-image: url(static/Images//girls/section-1/product-7.png);}
-.gpb-8{background-image: url(static/Images//girls/section-1/product-8.png);}
-.gpb-9{background-image: url(static/Images//girls/section-1/product-9.png);}
-.gpb-10{background-image: url(static/Images//girls/section-1/product-10.png);}
+.gpb-1{background-image: url("Images//girls/section-1/product-1.png");}
+.gpb-2{background-image: url("Images//girls/section-1/product-2.png");}
+.gpb-3{background-image: url("Images//girls/section-1/product-3.png");}
+.gpb-4{background-image: url("Images//girls/section-1/product-4.png");}
+.gpb-5{background-image: url("Images//girls/section-1/product-5.png");}
+.gpb-6{background-image: url("Images//girls/section-1/product-6.png");}
+.gpb-7{background-image: url("Images//girls/section-1/product-7.png");}
+.gpb-8{background-image: url("Images//girls/section-1/product-8.png");}
+.gpb-9{background-image: url("Images//girls/section-1/product-9.png");}
+.gpb-10{background-image: url("Images//girls/section-1/product-10.png");}
 
-.gpb-11{background-image: url(static/Images/girls/section-2/girl-1.jpeg);}
-.gpb-12{background-image: url(static/Images/girls/section-2/girl-2.jpeg);}
-.gpb-13{background-image: url(static/Images/girls/section-2/girl-3.jpeg);}
-.gpb-14{background-image: url(static/Images/girls/section-2/girl-4.jpeg);}
-.gpb-15{background-image: url(static/Images/girls/section-2/girl-5.jpeg);}
-.gpb-16{background-image: url(static/Images/girls/section-2/girl-6.webp);}
-.gpb-17{background-image: url(static/Images/girls/section-2/girl-7.webp);}
-.gpb-18{background-image: url(static/Images/girls/section-2/girl-8.webp);}
-.gpb-19{background-image: url(static/Images/girls/section-2/girl-9.webp);}
-.gpb-20{background-image: url(static/Images/girls/section-2/girl-10.webp);}
+.gpb-11{background-image: url("Images/girls/section-2/girl-1.jpeg");}
+.gpb-12{background-image: url("Images/girls/section-2/girl-2.jpeg");}
+.gpb-13{background-image: url("Images/girls/section-2/girl-3.jpeg");}
+.gpb-14{background-image: url("Images/girls/section-2/girl-4.jpeg");}
+.gpb-15{background-image: url("Images/girls/section-2/girl-5.jpeg");}
+.gpb-16{background-image: url("Images/girls/section-2/girl-6.webp");}
+.gpb-17{background-image: url("Images/girls/section-2/girl-7.webp");}
+.gpb-18{background-image: url("Images/girls/section-2/girl-8.webp");}
+.gpb-19{background-image: url("Images/girls/section-2/girl-9.webp");}
+.gpb-20{background-image: url("Images/girls/section-2/girl-10.webp");}
 
-.gpb-21{background-image: url(static/Images//girls/section-3/girl-1.webp);}
-.gpb-22{background-image: url(static/Images//girls/section-3/girl-2.webp);}
-.gpb-23{background-image: url(static/Images//girls/section-3/girl-3.webp);}
-.gpb-24{background-image: url(static/Images//girls/section-3/girl-4.webp);}
-.gpb-25{background-image: url(static/Images//girls/section-3/girl-5.webp);}
-.gpb-26{background-image: url(static/Images//girls/section-3/girl-6.webp);}
-.gpb-27{background-image: url(static/Images//girls/section-3/girl-7.webp);}
-.gpb-28{background-image: url(static/Images//girls/section-3/girl-8.webp);}
-.gpb-29{background-image: url(static/Images//girls/section-3/girl-9.webp);}
-.gpb-30{background-image: url(static/Images//girls/section-3/girl-10.webp);}
+.gpb-21{background-image: url("Images//girls/section-3/girl-1.webp");}
+.gpb-22{background-image: url("Images//girls/section-3/girl-2.webp");}
+.gpb-23{background-image: url("Images//girls/section-3/girl-3.webp");}
+.gpb-24{background-image: url("Images//girls/section-3/girl-4.webp");}
+.gpb-25{background-image: url("Images//girls/section-3/girl-5.webp");}
+.gpb-26{background-image: url("Images//girls/section-3/girl-6.webp");}
+.gpb-27{background-image: url("Images//girls/section-3/girl-7.webp");}
+.gpb-28{background-image: url("Images//girls/section-3/girl-8.webp");}
+.gpb-29{background-image: url("Images//girls/section-3/girl-9.webp");}
+.gpb-30{background-image: url("Images//girls/section-3/girl-10.webp");}
 
-.gpb-31{background-image: url(static/Images//girls/section-4/girl-1.webp);}
-.gpb-32{background-image: url(static/Images//girls/section-4/girl-2.webp);}
-.gpb-33{background-image: url(static/Images//girls/section-4/girl-3.webp);}
-.gpb-34{background-image: url(static/Images//girls/section-4/girl-4.webp);}
-.gpb-35{background-image: url(static/Images//girls/section-4/girl-5.webp);}
-.gpb-36{background-image: url(static/Images//girls/section-4/girl-6.jpg);}
-.gpb-37{background-image: url(static/Images//girls/section-4/girl-7.webp);}
-.gpb-38{background-image: url(static/Images//girls/section-4/girl-8.webp);}
-.gpb-39{background-image: url(static/Images//girls/section-4/girl-9.webp);}
-.gpb-40{background-image: url(static/Images//girls/section-4/girl-10.webp);}
+.gpb-31{background-image: url("Images//girls/section-4/girl-1.webp");}
+.gpb-32{background-image: url("Images//girls/section-4/girl-2.webp");}
+.gpb-33{background-image: url("Images//girls/section-4/girl-3.webp");}
+.gpb-34{background-image: url("Images//girls/section-4/girl-4.webp");}
+.gpb-35{background-image: url("Images//girls/section-4/girl-5.webp");}
+.gpb-36{background-image: url("Images//girls/section-4/girl-6.jpg");}
+.gpb-37{background-image: url("Images//girls/section-4/girl-7.webp");}
+.gpb-38{background-image: url("Images//girls/section-4/girl-8.webp");}
+.gpb-39{background-image: url("Images//girls/section-4/girl-9.webp");}
+.gpb-40{background-image: url("Images//girls/section-4/girl-10.webp");}
 
 
-.gpb-41{background-image: url(static/Images//girls/section-5/girl-1.webp);}
-.gpb-42{background-image: url(static/Images//girls/section-5/girl-2.jpg);}
-.gpb-43{background-image: url(static/Images//girls/section-5/girl-3.webp);}
-.gpb-44{background-image: url(static/Images//girls/section-5/girl-4.webp);}
-.gpb-45{background-image: url(static/Images//girls/section-5/girl-5.webp);}
-.gpb-46{background-image: url(static/Images//girls/section-5/girl-6.jpg);}
-.gpb-47{background-image: url(static/Images//girls/section-5/girl-7.webp);}
-.gpb-48{background-image: url(static/Images//girls/section-5/girl-8.webp);}
-.gpb-49{background-image: url(static/Images//girls/section-5/girl-9.webp);
+.gpb-41{background-image: url("Images//girls/section-5/girl-1.webp");}
+.gpb-42{background-image: url("Images//girls/section-5/girl-2.jpg");}
+.gpb-43{background-image: url("Images//girls/section-5/girl-3.webp");}
+.gpb-44{background-image: url("Images//girls/section-5/girl-4.webp");}
+.gpb-45{background-image: url("Images//girls/section-5/girl-5.webp");}
+.gpb-46{background-image: url("Images//girls/section-5/girl-6.jpg");}
+.gpb-47{background-image: url("Images//girls/section-5/girl-7.webp");}
+.gpb-48{background-image: url("Images//girls/section-5/girl-8.webp");}
+.gpb-49{background-image: url("Images//girls/section-5/girl-9.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 .gpb-50{
-    background-image: url(static/Images//girls/section-5/girl-10.jpg);
+    background-image: url("Images//girls/section-5/girl-10.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
