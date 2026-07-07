@@ -36,8 +36,8 @@ body{
 .hero-section{
     border-radius: 10px;
     margin: 10px;
-    height:500px;
-    background-image:url(sexy-2.jpg);
+    height:700px;
+    background-image:url(/static/Images/sexy-2.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -64,7 +64,7 @@ body{
     -bottom:solid 5px rgb(219, 9, 37);
     margin: 20px;
     border-radius: 10px;
-    padding: 10px;
+    padding: 40px;
     display: grid;
     justify-content: center;
     align-items: center;
@@ -73,8 +73,8 @@ body{
 
 }
 #btn-call-us{
-    height: 50px;
-    width: 150px;
+    height: 100px;
+    width: 200px;
     border-radius: 10px;
     background-color: rgb(24, 175, 235);
     border: none;
@@ -89,8 +89,8 @@ body{
     border: none;
     
     border-radius: 10px;
-    width: 150px;
-    height: 50px;
+    width: 200px;
+    height: 100px;
     color: white;
     font-style: oblique;
     font-size: x-large;
@@ -169,7 +169,7 @@ body{
 }
 .hero-home-footer button{
     width: 200px;
-    height: 50px;
+    height: 100px;
     margin:10px;
     border: none;
     border-radius: 10px;
@@ -198,6 +198,7 @@ body{
     width: 60%;
     border-radius: 10px;
 }
+
 
 .hero-home-box img{
     object-fit: cover;
@@ -247,6 +248,7 @@ body{
 .girls-product{
     
     height: fit-content;
+    text-decoration: none;
 
     margin: 10px;
     padding: 10px;
@@ -259,6 +261,10 @@ body{
     
 
 }
+a{
+    text-decoration: none;
+}
+/* Girls-Images */
 .gpb-1,
 .gpb-2,
 .gpb-3,
@@ -278,56 +284,110 @@ body{
 .gpb-17,
 .gpb-18,
 .gpb-19,
-.gpb-20
-
-{
+.gpb-20,
+.gpb-21,
+.gpb-22,
+.gpb-23,
+.gpb-24,
+.gpb-25,
+.gpb-26,
+.gpb-27,
+.gpb-28,
+.gpb-29,
+.gpb-30,
+.gpb-31,
+.gpb-32,
+.gpb-33,
+.gpb-34,
+.gpb-35,
+.gpb-36,
+.gpb-37,
+.gpb-38,
+.gpb-39,
+.gpb-40,
+.gpb-41,
+.gpb-42,
+.gpb-43,
+.gpb-44,
+.gpb-45,
+.gpb-46,
+.gpb-47,
+.gpb-48,
+.gpb-49,
+.gpb-50{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
-.gpb-1{
-    background-image: url(product-1.png);
-}
-.gpb-2{
-    background-image: url(product-2.png);
-    
-}
-.gpb-3{
-    background-image: url(product-3.png);
-    
-}
-.gpb-4{
+.gpb-1{background-image: url(/static/Images//girls/section-1/product-1.png);}
+.gpb-2{background-image: url(/static/Images//girls/section-1/product-2.png);}
+.gpb-3{background-image: url(/static/Images//girls/section-1/product-3.png);}
+.gpb-4{background-image: url(/static/Images//girls/section-1/product-4.png);}
+.gpb-5{background-image: url(/static/Images//girls/section-1/product-5.png);}
+.gpb-6{background-image: url(/static/Images//girls/section-1/product-6.png);}
+.gpb-7{background-image: url(/static/Images//girls/section-1/product-7.png);}
+.gpb-8{background-image: url(/static/Images//girls/section-1/product-8.png);}
+.gpb-9{background-image: url(/static/Images//girls/section-1/product-9.png);}
+.gpb-10{background-image: url(/static/Images//girls/section-1/product-10.png);}
 
-    background-image: url(product-4.png);
+.gpb-11{background-image: url(/static/Images/girls/section-2/girl-1.jpeg);}
+.gpb-12{background-image: url(/static/Images/girls/section-2/girl-2.jpeg);}
+.gpb-13{background-image: url(/static/Images/girls/section-2/girl-3.jpeg);}
+.gpb-14{background-image: url(/static/Images/girls/section-2/girl-4.jpeg);}
+.gpb-15{background-image: url(/static/Images/girls/section-2/girl-5.jpeg);}
+.gpb-16{background-image: url(/static/Images/girls/section-2/girl-6.webp);}
+.gpb-17{background-image: url(/static/Images/girls/section-2/girl-7.webp);}
+.gpb-18{background-image: url(/static/Images/girls/section-2/girl-8.webp);}
+.gpb-19{background-image: url(/static/Images/girls/section-2/girl-9.webp);}
+.gpb-20{background-image: url(/static/Images/girls/section-2/girl-10.webp);}
+
+.gpb-21{background-image: url(/static/Images//girls/section-3/girl-1.webp);}
+.gpb-22{background-image: url(/static/Images//girls/section-3/girl-2.webp);}
+.gpb-23{background-image: url(/static/Images//girls/section-3/girl-3.webp);}
+.gpb-24{background-image: url(/static/Images//girls/section-3/girl-4.webp);}
+.gpb-25{background-image: url(/static/Images//girls/section-3/girl-5.webp);}
+.gpb-26{background-image: url(/static/Images//girls/section-3/girl-6.webp);}
+.gpb-27{background-image: url(/static/Images//girls/section-3/girl-7.webp);}
+.gpb-28{background-image: url(/static/Images//girls/section-3/girl-8.webp);}
+.gpb-29{background-image: url(/static/Images//girls/section-3/girl-9.webp);}
+.gpb-30{background-image: url(/static/Images//girls/section-3/girl-10.webp);}
+
+.gpb-31{background-image: url(/static/Images//girls/section-4/girl-1.webp);}
+.gpb-32{background-image: url(/static/Images//girls/section-4/girl-2.webp);}
+.gpb-33{background-image: url(/static/Images//girls/section-4/girl-3.webp);}
+.gpb-34{background-image: url(/static/Images//girls/section-4/girl-4.webp);}
+.gpb-35{background-image: url(/static/Images//girls/section-4/girl-5.webp);}
+.gpb-36{background-image: url(/static/Images//girls/section-4/girl-6.jpg);}
+.gpb-37{background-image: url(/static/Images//girls/section-4/girl-7.webp);}
+.gpb-38{background-image: url(/static/Images//girls/section-4/girl-8.webp);}
+.gpb-39{background-image: url(/static/Images//girls/section-4/girl-9.webp);}
+.gpb-40{background-image: url(/static/Images//girls/section-4/girl-10.webp);}
+
+
+.gpb-41{background-image: url(/static/Images//girls/section-5/girl-1.webp);}
+.gpb-42{background-image: url(/static/Images//girls/section-5/girl-2.jpg);}
+.gpb-43{background-image: url(/static/Images//girls/section-5/girl-3.webp);}
+.gpb-44{background-image: url(/static/Images//girls/section-5/girl-4.webp);}
+.gpb-45{background-image: url(/static/Images//girls/section-5/girl-5.webp);}
+.gpb-46{background-image: url(/static/Images//girls/section-5/girl-6.jpg);}
+.gpb-47{background-image: url(/static/Images//girls/section-5/girl-7.webp);}
+.gpb-48{background-image: url(/static/Images//girls/section-5/girl-8.webp);}
+.gpb-49{background-image: url(/static/Images//girls/section-5/girl-9.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
-.gpb-5{
-    background-image: url(product-5.png);
-    
-}
-.gpb-6{
-    background-image: url(product-6.png);
-    
-}
-.gpb-7{
-    background-image: url(product-7.png);
-    
-}
-.gpb-8{
-    background-image: url(product-8.png);
-    
-}
-.gpb-9{
-    background-image: url(product-9.png);
-    
-}
-.gpb-10{
-    background-image: url(product-10.png);
+.gpb-50{
+    background-image: url(/static/Images//girls/section-5/girl-10.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 
 }
 
 
 .hero-home-3{
-    border: 2px white dashed;
+
     text-align: center;
     font-style: oblique;
 
@@ -368,9 +428,10 @@ body{
 
 
 .buttom img{
-    border: 2px white dashed;
-    height: 400px;
+
+    height: 500px;
     margin: 10px;
+    border-radius: 18px;
 }
 
 .footer{
@@ -397,8 +458,9 @@ body{
 }
 .footer button{
     padding: 20px;
-    width: 150px;
+    width: 200px;
+    height: 100px;
     border-radius: 15px;
-    background-color: yellow;
+    background-color:green;
     font-size: x-large;
 }
